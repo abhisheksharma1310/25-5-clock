@@ -46,7 +46,6 @@ The 25 + 5 Clock project includes the following features:
 The project was built using the following technologies and libraries:
 
 - React
-- Redux
 - JavaScript
 - HTML
 - CSS
