@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  background-color: #1e555c;
+  width: 100vw;
+  height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Times New Roman";
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.header {
+  font-size: 50px;
+}
+
+.timer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  font-size: 30px;
+}
+
+.timer-seter {
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.arrow {
+  cursor: pointer;
+}
+
+.timer-display {
+  font-size: 30px;
+  border: 2px solid #00264d;
+  padding: 20px 35px;
+  border-radius: 50px;
+  box-shadow: 1px 1px 0px 8px inset;
+}
+
+.play {
+  color: #a50d0d;
+}
+
+.timer-time {
+  font-size: 80px;
+}
+
+.timer-controller {
+  width: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 26px;
+}
+
+.timer-ct-btn {
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+footer > h4 {
+  color: #a50d0d;
+  font-family: "Times New Roman";
+}
+
+footer > h5 {
+  color: #00264d;
+  font-family: "Share Tech Mono", sans;
+}
