@@ -83,7 +83,7 @@ The application will be accessible in your web browser at `http://localhost:3000
 
 ## Usage
 
-1. **Session and Break Length Adjustment**: Use the "+" and "-" buttons to adjust the session and break lengths as desired. The timer will update accordingly.
+1. **Session and Break Length Adjustment**: Use the ⬆️ and ⬇️ buttons to adjust the session and break lengths as desired. The timer will update accordingly.
 
 2. **Start/Stop Timer**: Click the "Start/Stop" button to begin or pause the timer.
 
