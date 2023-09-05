@@ -88,7 +88,7 @@ The application will be accessible in your web browser at `http://localhost:3000
 
 3. **Reset**: Click the "Reset" button to reset the timer and session/break lengths to their default values.
 
-4. **Audio Alert**: When the timer reaches 00:00, an audio alert
+4. **Audio Alert**: When the timer reaches 00:00, an audio alert will play.
 
 ---
 
